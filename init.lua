@@ -737,7 +737,7 @@ cmp.setup {
 -- vim: ts=2 sts=2 sw=2 et
 
 -- vim.cmd("set autochdir")
-vim.cmd("inoremap { {<CR>}<Esc>ko")
+-- vim.cmd("inoremap { {<CR>}<Esc>ko")
 vim.cmd("nnoremap k kzz")
 vim.cmd("nnoremap j jzz")
 vim.cmd("set relativenumber")
